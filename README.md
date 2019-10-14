@@ -35,11 +35,11 @@ commands as if we are physically on the victims machine<p>
 <p>To run other commands such as <b>download</b> files from victim<br>
 and to take a <b>screenshot</b> from the victims screen <br>
 we only need to specify on the shell ie:
-<pre> #download file.pdf</pre>:<p>This downloads the file.pdf to your attackers machine with same name</p>
+<pre> #download file.pdf</pre><p>This downloads the file.pdf to your attackers machine with same name</p>
 <pre> #screen </pre><p>This will take a screenshot of the victims screen<br>
 and save it on the attackers machine with <b>current time</b> as the file name</p>
 
-<b>This script if for education purpose only am not liable for any damages</b>
+<h4><b>This script if for education purpose only am not liable for any damages</b></h4>
 
 <h5>contribution</h5>
 <p>Any contributions or changes are highly welcomed<br>Folk the repo and perform the changes you deem necessary then do a pull requests <br>
