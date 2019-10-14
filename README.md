@@ -39,7 +39,7 @@ we only need to specify on the shell ie:
 <pre> #screen </pre><p>This will take a screenshot of the victims screen<br>
 and save it on the attackers machine with <b>current time</b> as the file name</p>
 
-<h4><b>This script if for education purpose only am not liable for any damages</b></h4>
+<h4><b>This script is for education purpose only am not liable for any damages</b></h4>
 
 <h5>contribution</h5>
 <p>Any contributions or changes are highly welcomed<br>Folk the repo and perform the changes you deem necessary then do a pull requests <br>
