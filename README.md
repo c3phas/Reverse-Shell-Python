@@ -47,4 +47,4 @@ and save it on the attackers machine with current time as the file name
 Any contributions or changes are highly welcomed<br>Folk the repo and perform the changes you deem necessary then do a pull requests 
 and your changes will be incorporated.<br>Any issues raised will also be looked into
 ##### AUTHOR
-peter-macharia
+c3phas
